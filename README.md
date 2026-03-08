@@ -1,5 +1,13 @@
 🚀 Kotak Neo Index Option Trading Dashboard (v1.0)
 This high-speed trading dashboard is built with the Kotak Neo API, specifically designed for index options traders for placing orders through API.
+
+📖 How to Install & Run
+Follow these simple steps to get started:
+Download: Click the Latest Release Link and download the Kotak_Neo_Terminal.zip file.
+Extract: Right-click the downloaded ZIP file and select Extract All. Do not run the app from inside the ZIP folder.
+Launch: Double-click the Kotak_Neo_Terminal.exe file.
+Note: If Windows shows a "Protected your PC" popup, click More Info and then Run Anyway.
+
 ✨ Key Features
 Dual-Side Execution: Dedicated panels for Call (CE) and Put (PE) with real-time LTP display and instant Buy/Sell buttons.
 Smart Strike Selection: Select your Index (Nifty/BankNifty) and Expiry. Use Auto Select to instantly fetch ATM, ITM, or OTM strikes based on the current Spot/Future price.
